@@ -1,7 +1,4 @@
-/*
-Contrat : 0x8557dcD879361c19b3aB389bD12b2274493D9C67
-Metadata of "checkodd" was published successfully.
-*/
+// Metadata of "checkodd" was published successfully.
 
 // SPDX-License-Identifier: MIT
 
